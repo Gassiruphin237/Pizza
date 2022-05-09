@@ -1,0 +1,33 @@
+.bg-dark{
+    background: linear-gradient(rgb(53, 255, 86), rgb(53, 255, 86))!important;
+ }
+ .nav-link:active,.nav-link:visited{
+
+color: #fff;
+}
+.nav-link:hover{
+border-bottom: 2px solid rgb(255, 255, 255);
+transition: border-botton  1s ease-in;
+color: #fff;
+}
+.nav-item{
+font-size: 18px;
+padding-left: 20px;
+}
+body {
+  background-color: white;
+  color: white;
+  font-size: 25px;
+}
+/* table{
+  background-color: white;
+  color: black !important;
+} */
+.dark-mode {
+  background-color: #2b2a33;
+  color: white !important;
+}
+
+#hr{
+  background-color: black ;
+}
